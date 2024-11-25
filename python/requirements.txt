@@ -99,6 +99,6 @@ uritools==4.0.3
 urllib3==1.25.10
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==2.3.7
+Werkzeug==3.0.6
 xhtml2pdf==0.2.16
 zipp==3.21.0
