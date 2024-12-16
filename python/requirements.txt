@@ -19,7 +19,7 @@ charset-normalizer==3.4.0
 chevron==0.13.1
 click==8.1.7
 colorama==0.4.4
-configobj==5.0.6
+configobj==5.0.9
 cryptography==41.0.5
 cssselect2==0.7.0
 dbus-python==1.2.18
